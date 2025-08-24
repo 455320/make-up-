@@ -1,0 +1,11 @@
+  .foundations{
+            display: flex;
+            padding: 45%;
+            box-shadow:0 5px 5px 5px rgb(199, 46, 72);
+        }
+        .descrp{
+            color: red;
+            font-size:20px;
+
+        }
+    
